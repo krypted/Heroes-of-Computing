@@ -1,0 +1,86 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "ada.sticker"
+    },
+    {
+      "filename" : "adelegoldberg.sticker"
+    },
+    {
+      "filename" : "alanturing.sticker"
+    },
+    {
+      "filename" : "anwang.sticker"
+    },
+    {
+      "filename" : "annieeasley.sticker"
+    },
+    {
+      "filename" : "aryabhata.sticker"
+    },
+    {
+      "filename" : "charlesbabbage.sticker"
+    },
+    {
+      "filename" : "clarenceellis.sticker"
+    },
+    {
+      "filename" : "claudeshannon.sticker"
+    },
+    {
+      "filename" : "DEngelbert.sticker"
+    },
+    {
+      "filename" : "elizabethfeinler.sticker"
+    },
+    {
+      "filename" : "gracehopper.sticker"
+    },
+    {
+      "filename" : "ismael al jazari.sticker"
+    },
+    {
+      "filename" : "jcrlicklider.sticker"
+    },
+    {
+      "filename" : "katherinejohnson.sticker"
+    },
+    {
+      "filename" : "kathleenbooth.sticker"
+    },
+    {
+      "filename" : "linustorvalds.sticker"
+    },
+    {
+      "filename" : "margarethamilton.sticker"
+    },
+    {
+      "filename" : "markdean.sticker"
+    },
+    {
+      "filename" : "richardstallman.sticker"
+    },
+    {
+      "filename" : "robertawilliams.sticker"
+    },
+    {
+      "filename" : "sophiewilson.sticker"
+    },
+    {
+      "filename" : "susankare.sticker"
+    },
+    {
+      "filename" : "TimBernersLee.sticker"
+    },
+    {
+      "filename" : "yi jing.sticker"
+    }
+  ]
+}
