@@ -6,20 +6,40 @@ This repo contains the Xcode Project to use as a sticker app. Simply download, o
 
 <img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/TimBernersLee.sticker/TimBernersLee.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/ada.sticker/ada.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/adelegoldberg.sticker/adelegoldberg.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/alanturing.sticker/alanturing.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/annieeasley.sticker/annieeasley.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/anwang.sticker/anwang.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/aryabhata.sticker/aryabhata.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/charlesbabbage.sticker/charlesbabbage.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/claudeshannon.sticker/claudeshannon.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/elizabethfeinler.sticker/elizabethfeinler.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/gracehopper.sticker/gracehopper.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/ismael%20al%20jazari.sticker/ismael%20al%20jazari.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/jcrlicklider.sticker/jcrlicklider.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/katherinejohnson.sticker/katherinejohnson.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
