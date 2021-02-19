@@ -36,10 +36,31 @@ This repo contains the Xcode Project to use as a sticker app. Simply download, o
 
 <img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/katherinejohnson.sticker/katherinejohnson.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/kathleenbooth.sticker/kathleenbooth.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/linustorvalds.sticker/linustorvalds.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/margarethamilton.sticker/margarethamilton.png" width=100 height=100)>
 
-<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/clarenceellis.sticker/clarenceellis.png" width=100 height=100)>
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/markdean.sticker/markdean.png" width=100 height=100)>
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/richardstallman.sticker/richardstallman.png" width=100 height=100)>
+
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/robertawilliams.sticker/robertawilliams.png" width=100 height=100)>
+
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/sophiewilson.sticker/sophiewilson.png" width=100 height=100)>
+
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/markdean.sticker/markdean.png" width=100 height=100)>
+
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/markdean.sticker/markdean.png" width=100 height=100)>
+
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/markdean.sticker/markdean.png" width=100 height=100)>
+
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/markdean.sticker/markdean.png" width=100 height=100)>
+
