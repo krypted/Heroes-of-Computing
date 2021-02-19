@@ -7,6 +7,13 @@ This repo contains the Xcode Project to use as a sticker app. Simply download, o
 # Included Images
 This project is in support of an upcoming book I'm working on to celebrate the evolutions that brought us where we are today in the history of computing and nothing I planned on monetizing (I haven't charged for any apps I've put on the app store thus far). But here are the stickers in the pack thus far.
 
+
+<img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/untitled%20folder%202/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-02-14%20at%2011.06.54.png" width=100 height=200)>
+
+
+
+# Raw Sticker Files
+
 <img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/DEngelbert.sticker/DEngelbert.png" width=100 height=100)>
 
 <img src="https://github.com/krypted/Heroes-of-Computing/raw/main/Heroes%20Of%20Computing/The%20ABCs%20of%20Programming%20StickerPackExtension/Stickers.xcstickers/Sticker%20Pack.stickerpack/TimBernersLee.sticker/TimBernersLee.png" width=100 height=100)>
